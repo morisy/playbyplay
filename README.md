@@ -1,6 +1,8 @@
 Play-By-Play Effectiveness Tools
 ================================
 
+v. 1 - Forked.
+
 This project parses [AdvancedNFLStats.com's play-by-play data set](http://www.advancednflstats.com/2010/04/play-by-play-data.html) for ingest into a relational database. The primary contribution is parsing the text descriptions of plays to determine the type of play (i.e. run or pass) and how drives ended. The project also includes a simple web application for filtering the plays and generating some play and drive statistics. A running version of this application can be found here: [http://football.10flow.com](http://football.10flow.com).
 
 If you would like to contribute, please check issues for ideas.
